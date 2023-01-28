@@ -1,4 +1,4 @@
-# Teachers
+# Lectures
 
 **Group members:**
 - Jeppe
