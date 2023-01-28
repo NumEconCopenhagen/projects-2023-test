@@ -1,9 +1,8 @@
-# \[Group name\]
+# Teachers
 
 **Group members:**
-- A
-- B
-- C
+- Jeppe
+- Asker
 
 This repository contains  
 1. Inaugural project. 
