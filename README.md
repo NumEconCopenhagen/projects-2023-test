@@ -1,4 +1,4 @@
-# Lectures
+# Admins
 
 **Group members:**
 - Jeppe
