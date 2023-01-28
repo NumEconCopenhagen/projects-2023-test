@@ -1,4 +1,4 @@
-# Teachers
+# Admins
 
 **Group members:**
 - Jeppe
