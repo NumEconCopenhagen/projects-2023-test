@@ -54,8 +54,9 @@ class HouseholdSpecializationModelClass:
         C = par.wM*LM + par.wF*LF
 
         # b. home production
+        assert np.isclose(par.sigma,1.0) 
         H = HM**(1-par.alpha)*HF**par.alpha
-
+        
         # c. total consumption utility
         Q = C**par.omega*H**(1-par.omega)
         utility = np.fmax(Q,1e-8)**(1-par.rho)/(1-par.rho)
