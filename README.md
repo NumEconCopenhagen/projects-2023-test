@@ -2,7 +2,6 @@
 
 **Group members:**
 - Jeppe
-- Asker
 
 This repository contains  
 1. Inaugural project. 
